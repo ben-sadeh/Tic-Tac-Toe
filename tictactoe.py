@@ -1,7 +1,7 @@
 ############################################################
 # Name: Ben Sadeh
 # Date: May 20, 2024
-# Title: Question 1: Two Player Tic-Tac-Toe game
+# Title: Two Player Tic-Tac-Toe game
 ############################################################
 
 
